@@ -6,5 +6,4 @@ docker-compose*
 .git
 .gitignore
 .vscode
-package-lock.json
 yarn.lock
